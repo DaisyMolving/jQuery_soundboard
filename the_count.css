@@ -1,7 +1,16 @@
 body {
-  background-image: url(Count-half-closed.png);
+  background-image: url(images/Count-half-closed.png);
   background-size: 100%;
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
+}
+
+#countBlocks {
+  height: 160px;
+  width: 140px;
+  color: transparent;
+  border: transparent;
+  background-image: url(images/blueblock3.png);
+  background-repeat: no-repeat;
 }
