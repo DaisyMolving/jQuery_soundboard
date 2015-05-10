@@ -1,12 +1,18 @@
+
 body {
   background-image: url(images/Count-half-closed.png);
   background-size: 100%;
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  text-align: center;
+  font-family: helvetica;
+  font-weight: bold;
+  color: rgb(165,214,133);
 }
 
 .firstRow {
+  margin-top: 200px;
   display:block;
   text-align: center;
 }
@@ -22,7 +28,63 @@ body {
 }
 
 #countBlocks {
-  height: 160px;
+  height: 115px;
+  width: 140px;
+  background-color: transparent;
+  border: transparent;
+  background-image: url(images/blueblock3.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 13px;
+  font-family: helvetica;
+  font-weight: bold;
+}
+
+#one {
+  height: 115px;
+  width: 140px;
+  background-color: transparent;
+  border: transparent;
+  background-image: url(images/yellowblock.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 16px;
+  font-family: helvetica;
+  font-weight: bold;
+  color: rgb(44,140,164);
+  
+}
+
+#two {
+  height: 115px;
+  width: 140px;
+  background-color: transparent;
+  border: transparent;
+  background-image: url(images/greenblock.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 16px;
+  font-family: helvetica;
+  font-weight: bold;
+  color: rgb(216,223,120);
+}
+
+#three {
+  height: 115px;
+  width: 140px;
+  background-color: transparent;
+  border: transparent;
+  background-image: url(images/redblock.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 16px;
+  font-family: helvetica;
+  font-weight: bold;
+  color: rgb(25,147,59);
+}
+
+#four {
+  height: 115px;
   width: 140px;
   background-color: transparent;
   border: transparent;
@@ -32,144 +94,88 @@ body {
   font-size: 16px;
   font-family: helvetica;
   font-weight: bold;
-}
-
-#one {
-  height: 160px;
-  width: 140px;
-  background-color: transparent;
-  border: transparent;
-  background-image: url(images/yellowblock.png);
-  background-position: center;
-  background-repeat: no-repeat;
-  font-size: 20px;
-  font-family: helvetica;
-  font-weight: bold;
-  color: rgb(44,140,164);
-  
-}
-
-#two {
-  height: 160px;
-  width: 140px;
-  background-color: transparent;
-  border: transparent;
-  background-image: url(images/greenblock.png);
-  background-position: center;
-  background-repeat: no-repeat;
-  font-size: 20px;
-  font-family: helvetica;
-  font-weight: bold;
-  color: rgb(216,223,120);
-}
-
-#three {
-  height: 160px;
-  width: 140px;
-  background-color: transparent;
-  border: transparent;
-  background-image: url(images/redblock.png);
-  background-position: center;
-  background-repeat: no-repeat;
-  font-size: 20px;
-  font-family: helvetica;
-  font-weight: bold;
-  color: rgb(25,147,59);
-}
-
-#four {
-  height: 160px;
-  width: 140px;
-  background-color: transparent;
-  border: transparent;
-  background-image: url(images/blueblock3.png);
-  background-position: center;
-  background-repeat: no-repeat;
-  font-size: 20px;
-  font-family: helvetica;
-  font-weight: bold;
   color: rgb(183,3,19);
 }
 
 #five {
-  height: 160px;
+  height: 115px;
   width: 140px;
   background-color: transparent;
   border: transparent;
   background-image: url(images/yellowblock.png);
   background-position: center;
   background-repeat: no-repeat;
-  font-size: 20px;
+  font-size: 16px;
   font-family: helvetica;
   font-weight: bold;
   color: rgb(44,140,164);
 }
 
 #six {
-  height: 160px;
+  height: 115px;
   width: 140px;
   background-color: transparent;
   border: transparent;
   background-image: url(images/greenblock.png);
   background-position: center;
   background-repeat: no-repeat;
-  font-size: 20px;
+  font-size: 16px;
   font-family: helvetica;
   font-weight: bold;
   color: rgb(216,223,120);
 }
 
 #seven {
-  height: 160px;
+  height: 115px;
   width: 140px;
   background-color: transparent;
   border: transparent;
   background-image: url(images/redblock.png);
   background-position: center;
   background-repeat: no-repeat;
-  font-size: 20px;
+  font-size: 16px;
   font-family: helvetica;
   font-weight: bold;
   color: rgb(25,147,59);
 }
 
 #eight {
-  height: 160px;
+  height: 115px;
   width: 140px;
   background-color: transparent;
   border: transparent;
   background-image: url(images/blueblock3.png);
   background-position: center;
   background-repeat: no-repeat;
-  font-size: 20px;
+  font-size: 16px;
   font-family: helvetica;
   font-weight: bold;
   color: rgb(183,3,19);
 }
 
 #nine {
-  height: 160px;
+  height: 115px;
   width: 140px;
   background-color: transparent;
   border: transparent;
   background-image: url(images/yellowblock.png);
   background-position: center;
   background-repeat: no-repeat;
-  font-size: 20px;
+  font-size: 16px;
   font-family: helvetica;
   font-weight: bold;
   color: rgb(44,140,164);
 }
 
 #ten {
-  height: 160px;
+  height: 115px;
   width: 140px;
   background-color: transparent;
   border: transparent;
   background-image: url(images/greenblock.png);
   background-position: center;
   background-repeat: no-repeat;
-  font-size: 20px;
+  font-size: 16px;
   font-family: helvetica;
   font-weight: bold;
   color: rgb(216,223,120);
