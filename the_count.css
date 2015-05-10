@@ -14,4 +14,137 @@ body {
   background-image: url(images/blueblock3.png);
   background-position: center;
   background-repeat: no-repeat;
+  font-size: 16px;
+  font-family: helvetica;
+  font-weight: bold;
+}
+
+#one {
+  height: 160px;
+  width: 140px;
+  background-color: transparent;
+  border: transparent;
+  background-image: url(images/yellowblock.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 20px;
+  font-family: helvetica;
+  font-weight: bold;
+}
+
+#two {
+  height: 160px;
+  width: 140px;
+  background-color: transparent;
+  border: transparent;
+  background-image: url(images/greenblock.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 20px;
+  font-family: helvetica;
+  font-weight: bold;
+}
+
+#three {
+  height: 160px;
+  width: 140px;
+  background-color: transparent;
+  border: transparent;
+  background-image: url(images/redblock.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 20px;
+  font-family: helvetica;
+  font-weight: bold;
+}
+
+#four {
+  height: 160px;
+  width: 140px;
+  background-color: transparent;
+  border: transparent;
+  background-image: url(images/blueblock3.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 20px;
+  font-family: helvetica;
+  font-weight: bold;
+}
+
+#five {
+  height: 160px;
+  width: 140px;
+  background-color: transparent;
+  border: transparent;
+  background-image: url(images/yellowblock.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 20px;
+  font-family: helvetica;
+  font-weight: bold;
+}
+
+#six {
+  height: 160px;
+  width: 140px;
+  background-color: transparent;
+  border: transparent;
+  background-image: url(images/greenblock.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 20px;
+  font-family: helvetica;
+  font-weight: bold;
+}
+
+#seven {
+  height: 160px;
+  width: 140px;
+  background-color: transparent;
+  border: transparent;
+  background-image: url(images/redblock.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 20px;
+  font-family: helvetica;
+  font-weight: bold;
+}
+
+#eight {
+  height: 160px;
+  width: 140px;
+  background-color: transparent;
+  border: transparent;
+  background-image: url(images/blueblock3.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 20px;
+  font-family: helvetica;
+  font-weight: bold;
+}
+
+#nine {
+  height: 160px;
+  width: 140px;
+  background-color: transparent;
+  border: transparent;
+  background-image: url(images/yellowblock.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 20px;
+  font-family: helvetica;
+  font-weight: bold;
+}
+
+#ten {
+  height: 160px;
+  width: 140px;
+  background-color: transparent;
+  border: transparent;
+  background-image: url(images/greenblock.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 20px;
+  font-family: helvetica;
+  font-weight: bold;
 }

@@ -8,14 +8,14 @@
  );
  mySound.play();
 
-});
+// });
 
 
 // $('#countBlocks').on("click", function(){
 //   console.log("click");
 // //   var output =  + $(this).attr('id');
 // //   $('p').text(output);
-// });
+});
 
 $('#One').on("click", function(){
   console.log("click");
