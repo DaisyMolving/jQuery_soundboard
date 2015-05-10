@@ -4,11 +4,89 @@ soundManager.setup({
 
 $("#countBlocks").on("click", function(){
   var mySound = soundManager.createSound({
-  url: 'count.mp3'
+  url: 'audio_files/block.mp3'
   });
   mySound.play();
 
 });
+ $("#one").on("click", function(){
+  var mySound = soundManager.createSound({
+  url: 'audio_files/one.mp3'
+  });
+  mySound.play();
+});
+
+  $("#two").on("click", function(){
+  var mySound = soundManager.createSound({
+  url: 'audio_files/two.mp3'
+  });
+  mySound.play();
+
+})
+
+ $("#three").on("click", function(){
+  var mySound = soundManager.createSound({
+  url: 'audio_files/three.mp3'
+  });
+  mySound.play();
+
+})
+
+  $("#four").on("click", function(){
+  var mySound = soundManager.createSound({
+  url: 'audio_files/four.mp3'
+  });
+  mySound.play();
+
+})
+
+   $("#five").on("click", function(){
+  var mySound = soundManager.createSound({
+  url: 'audio_files/five.mp3'
+  });
+  mySound.play();
+
+})
+
+    $("#six").on("click", function(){
+  var mySound = soundManager.createSound({
+  url: 'audio_files/six.mp3'
+  });
+  mySound.play();
+
+})
+
+   $("#seven").on("click", function(){
+  var mySound = soundManager.createSound({
+  url: 'audio_files/seven.mp3'
+  });
+  mySound.play();
+
+})
+
+   $("#eight").on("click", function(){
+  var mySound = soundManager.createSound({
+  url: 'audio_files/eight.mp3'
+  });
+  mySound.play();
+})
+
+   $("#nine").on("click", function(){
+  var mySound = soundManager.createSound({
+  url: 'audio_files/nine.mp3'
+  });
+  mySound.play();
+
+})
+
+   $("#ten").on("click", function(){
+  var mySound = soundManager.createSound({
+  url: 'audio_files/ten.mp3'
+  });
+  mySound.play();
+
+})
+
   },
   ontimeout: function(){
   }
@@ -21,62 +99,3 @@ $("#countBlocks").on("click", function(){
 // //   $('p').text(output);
 // });
 
-$('#One').on("click", function(){
-  console.log("click");
-//   var output =  + $(this).attr('id');
-//   $('p').text(output);
-});
-
-$('#Two').on("click", function(){
-  console.log("click");
-//   var output =  + $(this).attr('id');
-//   $('p').text(output);
-});
-
-$('#Three').on("click", function(){
-  console.log("click");
-//   var output =  + $(this).attr('id');
-//   $('p').text(output);
-});
-
-$('#Four').on("click", function(){
-  console.log("click");
-//   var output =  + $(this).attr('id');
-//   $('p').text(output);
-});
-
-$('#Five').on("click", function(){
-  console.log("click");
-//   var output =  + $(this).attr('id');
-//   $('p').text(output);
-});
-
-$('#Six').on("click", function(){
-  console.log("click");
-//   var output =  + $(this).attr('id');
-//   $('p').text(output);
-});
-
-$('#Seven').on("click", function(){
-  console.log("click");
-//   var output =  + $(this).attr('id');
-//   $('p').text(output);
-});
-
-$('#Eight').on("click", function(){
-  console.log("click");
-//   var output =  + $(this).attr('id');
-//   $('p').text(output);
-});
-
-$('#Nine').on("click", function(){
-  console.log("click");
-//   var output =  + $(this).attr('id');
-//   $('p').text(output);
-});
-
-$('#Ten').on("click", function(){
-  console.log("click");
-//   var output =  + $(this).attr('id');
-//   $('p').text(output);
-});
