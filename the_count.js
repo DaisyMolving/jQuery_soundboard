@@ -2,12 +2,20 @@
 // soundManager.onload = function(){
 //   soundManager.createsound()
 // }
+  $("#countBlocks").on("click", function(){
+ var mySound = soundManager.createSound(
+ 'audio_files/count.mp3'
+ );
+ mySound.play();
 
-$('#countBlocks').on("click", function(){
-  console.log("click");
-//   var output =  + $(this).attr('id');
-//   $('p').text(output);
 });
+
+
+// $('#countBlocks').on("click", function(){
+//   console.log("click");
+// //   var output =  + $(this).attr('id');
+// //   $('p').text(output);
+// });
 
 $('#One').on("click", function(){
   console.log("click");

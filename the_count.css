@@ -9,8 +9,9 @@ body {
 #countBlocks {
   height: 160px;
   width: 140px;
-  color: transparent;
+  background-color: transparent;
   border: transparent;
   background-image: url(images/blueblock3.png);
+  background-position: center;
   background-repeat: no-repeat;
 }
